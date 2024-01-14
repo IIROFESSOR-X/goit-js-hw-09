@@ -24,11 +24,13 @@
   background: rgba(46, 47, 66, 0.8);
 }
 
+
 .simple-lightbox button.sl-close,
 .simple-lightbox .sl-navigation button.sl-prev,
 .simple-lightbox .sl-navigation button.sl-next {
   color: #fff;
 }
+
 
 div.simple-lightbox div.sl-counter {
   color: #fff;
