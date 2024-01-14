@@ -62,12 +62,12 @@ button[type='submit'] {
   border: transparent;
   border-radius: 8px;
   outline: transparent;
-  background: #0da8fc;
+  background: #4e75ff;
 
   transition: background-color 250ms ease-out;
 }
 
 button[type='submit']:hover,
 button[type='submit']:focus {
-  background-color: #d03b8d;
+  background-color: #6c8cff;
 }
